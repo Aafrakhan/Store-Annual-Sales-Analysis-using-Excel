@@ -20,7 +20,6 @@ To turn raw sales data into a clear, interactive report that answers these quest
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- GETPIVOTDATA (for KPI cards)
 - Data cleaning and formatting
 
 ## 📈 Report Contents
