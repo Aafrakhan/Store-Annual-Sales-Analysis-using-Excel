@@ -1,4 +1,4 @@
-# Vrinda Store Sales Analysis Report
+# Vrinda Store Annual Sales Analysis 
 
 ## Overview
 An interactive Excel report analyzing Vrinda Store's annual sales performance for 2022. The analysis covers sales trends across multiple e-commerce channels, top-performing states, customer demographics, and order fulfillment status providing a complete view of business performance for data-driven decision-making.
