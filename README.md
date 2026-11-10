@@ -1,26 +1,55 @@
-# Vrinda Store Annual Sales Analysis 
+# 📊 Vrinda Store Annual Sales Analysis
 
-## Overview
-An interactive Excel report analyzing Vrinda Store's annual sales performance for 2022. The analysis covers sales trends across multiple e-commerce channels, top-performing states, customer demographics, and order fulfillment status providing a complete view of business performance for data-driven decision-making.
+An interactive Excel report that analyses the 2022 sales performance of Vrinda Store, an online fashion store. 
+The report helps to understand what sells, where it sells, and who buys it.
 
-## Tools Used
+## 🎯 Objective
+
+To turn raw sales data into a clear, interactive report that answers these questions:
+
+- How did sales and orders change month by month?
+- Which states bring the most sales?
+- Which sales channels perform best?
+- Do men or women buy more?
+- Which age group places the most orders?
+- How many orders were delivered, returned, cancelled or refunded?
+
+## 🛠️ Tools Used
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Slicers (Channel, Month, Category)
+- Slicers
+- GETPIVOTDATA (for KPI cards)
+- Data cleaning and formatting
 
-## Dashboard Features
-- **Order vs Sales Trend** – Monthly comparison of sales amount and order count
-- **Sales: Top 10 States** – Ranking of states by total sales value
-- **Orders: Channels** – Distribution of orders across Amazon, Flipkart, Myntra, Meesho, Ajio, and others
-- **Sales: Men vs Women** – Gender-wise sales split
-- **Order Status** – Breakdown of Delivered, Returned, Refunded, and Cancelled orders
-- **Orders: Age vs Gender** – Customer demographics by age group (Adult, Senior, Teenager) and gender
+## 📈 Report Contents
 
-## Key Insights
-- Maharashtra, Karnataka, and Uttar Pradesh are the top-performing states by sales
-- Amazon leads order channels with 35%, followed by Flipkart (22%) and Myntra (23%)
-- 92% of orders were successfully delivered, with only 2% refunded and 3% cancelled
-- Women account for 64% of total sales compared to 36% from men
-- Adult customers show the highest order share across both genders
+- Sales vs Orders (monthly trend)
+- Sales by Men vs Women
+- Top 10 States by Sales
+- Sales by Channels
+- Orders % by Age vs Gender
+- Order Status
+- KPI cards for Total Sales and Total Orders
+- Slicers for Month, Channel and Category
 
+
+## 📌 Key Numbers
+
+| Metric | Value |
+|---|---|
+| Total Sales | ₹2,11,76,377 |
+| Total Orders | 31,047 |
+| Orders Delivered | 92% |
+
+## 🔍 Key Insights
+
+- **Gender:** Women contribute 64% of total sales, and men contribute 36%.
+- **Channels:** Amazon leads with 35.5% of sales, followed by Myntra (23.4%) and Flipkart (21.6%).
+- **States:** Maharashtra is the top state (₹29,90,221), followed by Karnataka (₹26,46,358) and Uttar Pradesh (₹21,04,659).
+- **Age group:** Adults place the most orders. Women order more than men in every age group.
+- **Monthly trend:** Sales and orders are highest in the early months and slow down towards the end of the year.
+- **Order status:** 92% of orders are delivered. Returned and cancelled orders are 3% each, and refunded orders are 2%.
+
+⭐ If you like this project, please give it a star!
