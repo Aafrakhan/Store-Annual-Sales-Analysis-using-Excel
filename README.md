@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Annual Sales Analysis
+# Vrinda Store Annual Sales Analysis
 
 An interactive Excel report that analyses the 2022 sales performance of Vrinda Store, an online fashion store. 
 The report helps to understand what sells, where it sells, and who buys it.
