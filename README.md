@@ -3,7 +3,7 @@
 An interactive Excel report that analyses the 2022 sales performance of Vrinda Store, an online fashion store. 
 The report helps to understand what sells, where it sells, and who buys it.
 
-## 🎯 Objective
+## Objective
 
 To turn raw sales data into a clear, interactive report that answers these questions:
 
@@ -14,7 +14,7 @@ To turn raw sales data into a clear, interactive report that answers these quest
 - Which age group places the most orders?
 - How many orders were delivered, returned, cancelled or refunded?
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -22,7 +22,7 @@ To turn raw sales data into a clear, interactive report that answers these quest
 - Slicers
 - Data cleaning and formatting
 
-## 📈 Report Contents
+## Report Contents
 
 - Sales vs Orders (monthly trend)
 - Sales by Men vs Women
