@@ -34,7 +34,7 @@ To turn raw sales data into a clear, interactive report that answers these quest
 - Slicers for Month, Channel and Category
 
 
-## 📌 Key Numbers
+## Key Numbers
 
 | Metric | Value |
 |---|---|
@@ -42,7 +42,7 @@ To turn raw sales data into a clear, interactive report that answers these quest
 | Total Orders | 31,047 |
 | Orders Delivered | 92% |
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Gender:** Women contribute 64% of total sales, and men contribute 36%.
 - **Channels:** Amazon leads with 35.5% of sales, followed by Myntra (23.4%) and Flipkart (21.6%).
@@ -50,5 +50,10 @@ To turn raw sales data into a clear, interactive report that answers these quest
 - **Age group:** Adults place the most orders. Women order more than men in every age group.
 - **Monthly trend:** Sales and orders are highest in the early months and slow down towards the end of the year.
 - **Order status:** 92% of orders are delivered. Returned and cancelled orders are 3% each, and refunded orders are 2%.
+
+## Recommendations
+
+- Focus on growing sales in top-performing channels and states.
+- Create targeted offers for women and adults customers to further boost sales.
 
 ⭐ If you like this project, please give it a star!
